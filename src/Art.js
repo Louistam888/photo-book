@@ -53,7 +53,7 @@ const Art = () => {
           <button onClick={handleClick}>
               {
                   isGalleryVisible
-                      ? `I've seen enough of this art! Pls hide it`
+                      ? `I've seen enough of this art! Pls hide it!!!`
                       : 'Click here for :sparkles: a r t :sparkles:'
               }
             </button>
